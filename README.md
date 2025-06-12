@@ -1,6 +1,6 @@
 Projet M1 TechWeb
 
-Application web développée dans le cadre du M1, avec un backend en FastAPI, une base de données PostgreSQL, et un frontend en React avec Tailwind CSS.
+Application web développée dans le cadre du M1, avec un backend en Node.js, une base de données PostgreSQL, et un frontend en React avec Tailwind CSS.
 
 Structure du projet
 
